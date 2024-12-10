@@ -73,6 +73,8 @@ Bu proje, kullanıcıların sohbet verilerinden anlamlı içgörüler çıkarabi
   - 03_model_training.ipynb
   - 04_question_answering.ipynb
 
+  Kendi cozumlerininizi ayri bir branch olusturarak solutions kalasorunun altinda kendi isminizle olusturdugunuz bir kalasorun altina yaparak PR olusturabilirsiniz.
+
 
 ## Örnek projeler  
 1. https://www.kaggle.com/code/omgits0mar/chatbot-from-scratch-llms-finetune
